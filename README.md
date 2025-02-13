@@ -24,11 +24,11 @@ Omnifoods is a modern, responsive food delivery website designed to provide user
 
 ## Screenshots
 
-![Homepage](Omnifoods-Website/resources/img/Homepage.png)
+![Homepage](resources/img/Home-page.png)
 
-![Features](Omnifoods-Website/resources/img/Features.png)
+![Features](resources/img/Features.png)
 
-![Food Panel](Omnifoods-Website/resources/img/Foodpanel.png)
+![Food Panel](resources/img/Foodpanel.png)
 
 
 ## 🎯 How to Use
